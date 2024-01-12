@@ -1,6 +1,6 @@
 ## Hi, I'm Mufaddal Ali Feroz 👋
 
-🌟 Experienced Frontend Developer 🌟
+🌟 Experienced Frontend Developer with 9+ years of expertise, crafting interactive web experiences with precision and innovation. 🌟
 
 ## Introduction
 With over 9 years of proven success in developing interactive web applications, employing cutting-edge technologies, and guiding junior developers to excel.
